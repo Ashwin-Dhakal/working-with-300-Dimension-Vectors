@@ -55,10 +55,11 @@ UI and Back end development:
 And this was the UI designed using Django backend:
 
 ![capture7](https://user-images.githubusercontent.com/24986485/42745776-368c950e-88f4-11e8-90dd-ed4eaba6632a.PNG)
+![sdfg](https://user-images.githubusercontent.com/24986485/42746485-b3a8f3b8-88f7-11e8-8836-457e7239baf6.PNG)
 
 results:
 ![screencapture-127-0-0-1-8080-searchlist-2018-07-16-12_48_32](https://user-images.githubusercontent.com/24986485/42746483-b36f0d6a-88f7-11e8-973c-e3f22c922c29.png)
 
-![sdfg](https://user-images.githubusercontent.com/24986485/42746485-b3a8f3b8-88f7-11e8-8836-457e7239baf6.PNG)
+
 
 Thanks !
