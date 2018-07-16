@@ -8,6 +8,10 @@ This photo is from the visulaization of initial feature engineering
 Heatmap was generated for calculating degree of effects of input parameter.
 ![sea](https://user-images.githubusercontent.com/24986485/42745578-4628d3b6-88f3-11e8-913c-932d465ae11e.PNG)
 
+I know you cant visualize this :D 
+![ee](https://user-images.githubusercontent.com/24986485/42745764-2a5d28c0-88f4-11e8-95df-9c64e8cccd49.png)
+
+
 This is the summary of neural network:
 
 ![capture2](https://user-images.githubusercontent.com/24986485/42745615-79e6a106-88f3-11e8-8e9f-28a3df28fe50.PNG)
@@ -24,5 +28,8 @@ Curve plotted:
 
 ![capture4](https://user-images.githubusercontent.com/24986485/42745684-c7c993e2-88f3-11e8-919f-82c5027a2eed.PNG)
 
+And this was the UI designed using Django backend:
+
+![capture7](https://user-images.githubusercontent.com/24986485/42745776-368c950e-88f4-11e8-90dd-ed4eaba6632a.PNG)
 
 Thanks !
