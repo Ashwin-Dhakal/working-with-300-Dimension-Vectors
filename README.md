@@ -61,9 +61,8 @@ results:
 ![screencapture-127-0-0-1-8080-searchlist-2018-07-16-12_48_32](https://user-images.githubusercontent.com/24986485/42746483-b36f0d6a-88f7-11e8-973c-e3f22c922c29.png)
 
 <br>
-<br>
-Relying on the project's idea, new workflow of architecture of was designed and a research was proposed. You can have a full read of the paper here:
-**"Exploring Deep Learning in Semantic Question Matching"**
+Relying on the project's idea, new workflow of architecture of was designed and a research was proposed. You can have a full read of the paper here: <br>
+**"Exploring Deep Learning in Semantic Question Matching"** <br>
 https://ieeexplore.ieee.org/document/8586832
 
 <br>
